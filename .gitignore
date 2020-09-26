@@ -1,0 +1,10 @@
+.DS_Store
+
+__pycache__
+.venv
+poetry.lock
+
+.vscode
+
+# 中継サーバに接続するためのトークンなどの設定情報
+settings.json

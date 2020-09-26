@@ -1,0 +1,11 @@
+{
+    "token": "example-token",
+    "endpoints": {
+        "relay_token": "http://localhost/api/v1/relays",
+        "relay_websocket": "ws://localhost/ws/v1/relays/%s"
+    },
+    "relay": {
+        "relay_token": "example-token",
+        "client_id": null
+    }
+}
