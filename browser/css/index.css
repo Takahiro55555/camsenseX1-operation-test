@@ -1,0 +1,19 @@
+header{
+    background-color: #00a1e9;
+}
+
+h1{
+    color: white;
+}
+
+footer{
+    background-color: rgb(43, 43, 43);
+    color: whitesmoke;
+    text-align: center;
+    height: 20rem;
+}
+
+.btn-toggle{
+    height: 1rem;
+    width: 1rem;
+}
